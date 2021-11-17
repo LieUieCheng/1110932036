@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<thml>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, intial-scale=1.0">
+	<title>作業一</title>
+</head>
+<body>
+	<table border="1">
+		<tr>
+			<td>作業一:HTML表格</td>
+		</tr>	
+		<tr>
+			<td>班級</td>
+			<td>資工二甲</td>
+		</tr>
+		<tr>
+			<td>姓名</td>
+			<td>賴育呈</td>
+		</tr>
+		<tr>
+			<td>學號</td>
+			<td>1110932036</td>
+	</table>
+	<hr>
+	<a href="1110932036.html">返回</a>
+	<img src="d40e4c0ca91240a68a42e35f34cb8c2e.png">			
+</body>		
+</html>
